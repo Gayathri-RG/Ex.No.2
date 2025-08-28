@@ -1,7 +1,7 @@
 
 # Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+                                                                        
+### REGISTER NUMBER : 212223060066
  
 ### Aim:
 To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
@@ -29,6 +29,139 @@ A comparison table outlining the performance of each platform (ChatGPT, Claude, 
 A final report summarizing the findings of the experiment, including recommendations on the most suitable AI platform for different use cases based on performance and user 
 
 ### Output:
+Summaries from Different AI Tools 
+Meta 
+Step 1: Summary of Blockchain Technology 
+Blockchain technology is a decentralized digital ledger that records transactions 
+across a network of computers. It works by grouping transactions into "blocks" and 
+linking them together in a "chain," creating a permanent and unalterable record. 
+Each block contains a unique code, called a "hash," that connects it to the previous 
+block, ensuring the integrity of the entire chain. This technology allows for secure, 
+transparent, and tamper-proof transactions without the need for intermediaries. 
+Blockchain is the foundation for cryptocurrencies like Bitcoin, but its applications 
+extend beyond digital currency to supply chain management, voting systems, and 
+more. Its decentralized nature and cryptographic security make it an attractive 
+solution for various industries. 
+Step 2: Revised Summary with Examples 
+Blockchain is a digital ledger that records transactions across a network of 
+computers in a secure and transparent way. It's like a digital record book that's 
+shared among many computers, making it hard to alter or manipulate. Each 
+transaction is grouped into a "block" and linked to the previous one, creating a 
+"chain." This technology is the basis for cryptocurrencies like Bitcoin. Beyond 
+digital currency, blockchain is used in supply chain management, like tracking 
+food origin in Walmart's supply chain, and in voting systems, such as West 
+Virginia's pilot voting program. Its decentralized and secure nature makes it useful 
+for many industries. By allowing secure and transparent transactions without 
+intermediaries, blockchain technology has the potential to transform various 
+sectors. 
+Claude 
+Step 1: Initial Summary (120-150 words) 
+Blockchain is a digital ledger technology that stores information across multiple 
+computers in a network. Think of it as a chain of digital blocks, where each block 
+contains transaction data and is linked to the previous block using cryptography. 
+This creates an unchangeable record of transactions that everyone in the network 
+can verify but no single person controls. 
+The key features of blockchain include decentralization (no central authority), 
+transparency (all transactions are visible), and immutability (records cannot be 
+altered once confirmed). When someone wants to add a new transaction, the 
+network participants must agree it's valid through a process called consensus. This 
+eliminates the need for intermediaries like banks or governments to verify 
+transactions. 
+Blockchain technology powers cryptocurrencies and has potential applications in 
+supply chain management, healthcare records, voting systems, and digital identity 
+verification. 
+Step 2: Simplified Revision with Real-World Examples 
+Blockchain is like a digital notebook that's copied across thousands of computers 
+worldwide. Instead of one person controlling the notebook, everyone has an 
+identical copy, making it nearly impossible to cheat or fake information. 
+Here's how it works: when someone makes a transaction, it gets recorded in a 
+"block." This block is then connected to the previous block, forming a "chain." 
+Once information is added, it can't be changed or deleted. 
+Real-world examples: - Bitcoin: The most famous use of blockchain, allowing people to send digital 
+money directly to each other without banks - Supply Chain Tracking: Walmart uses blockchain to trace food from farms to 
+stores, so if there's contamination, they can quickly find the source 
+Other applications include storing medical records securely and creating tamper
+proof voting systems. Blockchain's main advantage is trust – you don't need to rely 
+on a central authority because the technology itself ensures accuracy. 
+Cohere Command 
+Step 1: Summary of “The Basics of Blockchain Technology” 
+Blockchain is a decentralized digital ledger that records transactions across 
+multiple computers, making it secure and transparent. Unlike traditional systems, it 
+doesn’t rely on a central authority, reducing the risk of fraud. Each transaction, or 
+"block," is linked to the previous one using cryptography, forming a chain. This 
+makes altering data nearly impossible without consensus from the network. 
+Blockchain is the foundation of cryptocurrencies like Bitcoin but has broader 
+applications beyond finance. It ensures trust in systems where parties don’t know 
+each other. Key features include immutability (data cannot be changed), 
+transparency (all participants can see transactions), and decentralization (no single 
+control point). While it’s energy-intensive due to processes like mining, its 
+potential to revolutionize industries like supply chain, healthcare, and voting is 
+immense. 
+Step 2: Revised Summary with Real-World Examples 
+Blockchain is like a shared digital notebook that records transactions securely and 
+openly. Instead of one person controlling it, many users have a copy, making it 
+hard to cheat. Each entry (or "block") is linked to the previous one, creating a chain 
+that’s nearly impossible to alter. For example, Bitcoin uses blockchain to let people 
+send money directly without banks, ensuring transparency and security. Another 
+example is Walmart using blockchain to track food from farm to store, quickly 
+identifying sources during recalls. Blockchain’s key perks are its security, 
+openness, and lack of central control. While it uses a lot of energy, it’s 
+transforming industries like finance, supply chains, and even voting by building 
+trust without middlemen. 
+ChatGPT (GPT-5) 
+Step 1: Summary (120–150 words, clear & beginner-friendly) 
+Blockchain technology is a digital system that records and verifies transactions 
+securely without needing a central authority. It works like a chain of digital blocks, 
+where each block contains data and is linked to the previous one, making it nearly 
+impossible to alter past records. The system uses cryptography to ensure security, 
+and all participants in the network can view the same information, creating 
+transparency and trust. Unlike traditional databases managed by banks or 
+companies, blockchain is decentralized, meaning no single party controls it. This 
+makes it especially useful for applications requiring security, trust, and 
+transparency, such as digital payments, supply chain tracking, or verifying 
+ownership. By reducing intermediaries and increasing efficiency, blockchain has 
+the potential to transform industries like finance, healthcare, and logistics. Overall, 
+it is seen as a foundation for the future of digital trust. 
+Step 2: Revised (simpler + real-world examples) 
+Blockchain is a digital way of recording information so that it is secure, 
+transparent, and very hard to change. Think of it as a chain of blocks, where each 
+block stores data, and all blocks are connected. Since everyone in the network can 
+see the same record, it builds trust without needing a bank or central authority. 
+One famous example is Bitcoin, where blockchain is used to send and receive 
+digital money safely. Another example is supply chain management, where 
+companies use blockchain to track goods (like food or medicines) from the 
+producer to the customer, making sure they are real and not fake. 
+Because it is secure and trustworthy, blockchain is now being used in many areas, 
+including banking, healthcare, and logistics, and it may play a big role in the future 
+digital world. 
+Gemini 
+Step 1: 
+Blockchain is a secure, decentralized digital ledger that records transactions across 
+many computers. Unlike a traditional database controlled by a single entity, 
+blockchain uses a network of participants to validate and store data in "blocks." 
+These blocks are linked together in a chronological chain, with each new block 
+containing a unique code that references the previous one, making it nearly 
+impossible to alter past records without the consensus of the entire network. This 
+creates a transparent and tamper-proof history of all transactions. The system is 
+maintained through a process called "consensus," where network participants agree 
+on the validity of new transactions before they are added to the chain. This 
+distributed nature removes the need for a central authority, such as a bank or 
+government, and enhances security, transparency, and trust among users. It's the 
+technology underlying cryptocurrencies like Bitcoin. 
+Step 2 (Feedback): 
+Blockchain is a shared digital record book       
+. Think of it as a list of transactions 
+that everyone in a network can see and agree on, but no single person or company 
+owns. When a transaction happens, it's put into a digital "block" with other 
+transactions. Once a block is complete, it's chained to the previous one, making a 
+permanent and transparent history. It’s almost impossible to change a past record 
+because everyone on the network has a copy, and they must all agree on any 
+change. This makes the system incredibly secure and trustworthy without needing 
+a bank or other central authority. 
+Real-world examples: - Cryptocurrencies like Bitcoin use blockchain to record every transaction, 
+ensuring they are secure and cannot be double-spent. - In supply chain management, companies use blockchain to track products from 
+their origin to the store shelf. This helps consumers verify if a product is authentic 
+or sustainably sourced. 
 
 ### Conclusion: 
 
